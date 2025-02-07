@@ -1,5 +1,5 @@
 <h1>Projeto 3 - Recriando o site do Wikipedia</h1>
-<hr>
+
 <h2>Projeto realizado como exercício de aprendizado final do curso de HTML da plataforma DIO.</h2>
 
 <h3><u>Objetivo:</u></h3>
